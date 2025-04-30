@@ -1,0 +1,4 @@
+📰 Artículo de Compose
+Esta app forma parte de una serie de ejercicios prácticos para familiarizarse con Jetpack Compose. En este proyecto, se crea una pantalla de artículo que presenta una imagen destacada seguida de un título y dos párrafos de texto. El diseño se centra en la disposición y estilo de los elementos utilizando componentes como Image, Text, Column y modificadores para ajustar el espaciado y la alineación.​
+
+El objetivo principal es aplicar los conocimientos adquiridos sobre la creación de interfaces de usuario declarativas y la personalización de componentes en Compose. Este ejercicio ayuda a reforzar la comprensión de cómo estructurar y estilizar contenido textual e imágenes en una aplicación Android moderna.
